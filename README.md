@@ -37,7 +37,7 @@ In the third argument, give a number 1,2 or 3 accordingly,
 
 2 for backtracking algorithm
 
-3 for coloring with optimum number of colours
+3 for coloring with optimum number of colours with a combination of 1 and 2
 
 If giving '2', then also specify the number of colours to check for.
 The output will be the colours alloted to different vertices, if colouring will be possible, otherwise try increasing the number of vertices/slots.
