@@ -19,10 +19,10 @@ AUTHORS: Shreyansh Agrawal.
 USER INSTRUCTIONS:
 Create a text file containing the subjects selected by students i different lines.
 Make sure the format of the file is like following:
-phy101 che101 mth101 cs101
-ees102 phy102 che102 bio102
-mth102 cs102 bio102 che102
-phy101 ees101 mth101 cs101
+phy101 che101 mth101 cs101 /n
+ees102 phy102 che102 bio102 /n
+mth102 cs102 bio102 che102 /n
+phy101 ees101 mth101 cs101 /n
 where there are only spaces between two subjects.
 If the file is not in the sam folder as TimeTable, specify the whole path of the file as first argument in the command line.
 In the third argument, give a number 1,2 or 3 accordingly,
